@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" integrity="sha384-WskhaSGFgHYWDcbwN70/dfYBj47jz9qbsMId/iRN3ewGhXQFZCSftd1LZCfmhktB" crossorigin="anonymous">
+	  
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+
+    <title>Kaela Bryan</title>
+	  <link href="styles.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+	  
+	  <div class="container-fluid">
+		  <div class="row">
+		  	<div class="col-md-4">
+			  <a href="index.html" class="kaela">KAELA BRYAN</a>
+			  </div><!--close md-4-->
+
+			  <div class="col-md-4">
+			  	<a href="index.html">ALL WORK</a>
+			  </div><!--close md-4-->
+			  
+			  
+			  <div class="col-md-4">
+			  	<a href="resume.html">RESUMÉ</a>
+			  </div><!--close md-4-->
+			  
+			  
+		  </div><!--close row-->
+		  
+		  <div class="row">
+			  <div class="col-md-6" style="margin: 0 auto; padding-top: 60px; border: none;">
+				  <h1>Spartan Video</h1>
+				  <p style="font-weight: bold; font-size: 20px;">Web Design</p>
+				  <p>One of my first projects at Spartan was to concept and create wireframes and mockups for a video microsite. A problem the company faced was providing its audience with a branded, organized and easy-to-search database of all its videos. The microsite has yet to be developed by the tech team at Spartan, but they are set to move forward with my designs.</p><br><br>
+				  <strong>SCROLL</strong>
+			  </div>
+		  </div><!--close row-->
+			  
+		  <div class="row">
+			  <div class="col-md-12">
+			  	<img src="https://res.cloudinary.com/kaela/image/upload/v1541728496/Video-Microsite_figtu7.jpg" alt="Web Design: Spartan Video" title="Web Design: Spartan Video" style="max-width: 800px; width: 100%" class="laptop-image">
+				  <div class="laptop">
+					  <img src="https://res.cloudinary.com/kaela/image/upload/v1541728500/Video-Microsite-Full_ikwino.jpg" alt="Web Design: Spartan Video" title="Web Design: Spartan Video" style="max-width: 570px; width: 100%;">
+				  </div>
+			  </div>
+		  </div><!--close row-->
+		  
+		  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+		  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+		  
+		  <div class="row">
+		  	<div class="col-md-12"><a href="http://iceland.spartan.com/" target="_blank">View Live Site</a></div>
+		  </div><!--close row-->
+		 
+		  
+		  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+		  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+		  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+		  
+		  <div class="row">
+      
+		  		<div class="col-md-12"><a href="flyers.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540685623/prev-project_t7m13l.png" alt="previous project" title="previous project" class="next-prev"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="shop-gif.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540685624/next-project_daw5mn.png" alt="next project" title="next project" class="next-prev"></a></div>
+		  </div><!--close row-->
+		  
+			  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+		  <div class="row"><div class="col-md-12">&nbsp;</div></div>
+	  <div class="row">
+		  	<div class="col-md-4">
+			  <a href="spartan-video.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1541728496/Video-Microsite_figtu7.jpg" alt="Web Design: Spartan Video" title="Web Design: Spartan Video" style="max-width: 800px; width: 100%" class="laptop-image"></a>
+			  </div><!--close md-4-->
+			  
+			  <div class="col-md-4">
+			  <a href="iceland-LP.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540327797/Iceland-LP_rytoam.jpg" alt="Web Design: Iceland 2018" title="Web Design: Iceland 2018" style="max-width: 400px;" class="home"></a>
+			  </div><!--close md-4-->
+			  
+			  <div class="col-md-4">
+			  <a href="shop-gif.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1539621316/TrailPromo-SocialGIF_r5z5zc.gif" alt="Graphic Design: Shop Promo GIF" title="Graphic Design: Shop Promo GIF" class="home"></a>
+			  </div><!--close md-4-->
+		  </div><!--close row-->
+		  
+		  <div class="row">
+		  	<div class="col-md-4">
+			  <a href="patch.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1534179360/FinalDesign_jbttiq.png" alt="Print: SGX Warfighter Patch" title="Print: SGX Warfighter Patch" class="home"></a>
+			  </div><!--close md-4-->
+			  
+			  <div class="col-md-4">
+			  <a href="race-schedule.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1537905675/SpartanRaceSchedule-2019_zrvtyf.gif" alt="Digital Flyer: 2019 US Race Schedule" title="Digital Flyer: 2019 US Race Schedule" class="home" style="max-width: 400px;"></a>
+			  </div><!--close md-4-->
+			  
+			  <div class="col-md-4">
+			  <a href="elites.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540848866/Elites-LP_zxxy9b.jpg" alt="Design, Development: Elite Endurance Landing Page" title="Design, Development: Elite Endurance Landing Page" style="max-width: 400px;" class="home"></a>
+			  </div><!--close md-4-->  
+		  </div><!--close row-->
+		  
+		  <div class="row">
+		  	<div class="col-md-4">
+			  <a href="NS-LP.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540749571/NS-LP_amgn4v.jpg" alt="Web Development: NutriSavings Landing Pages" title="Web Development: NutriSavings Landing Pages" class="home" style="max-width: 400px;"></a>
+			  </div><!--close md-4-->
+			  
+			  <div class="col-md-4">
+				<a href="social.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1528382250/IGstory-Male_k0yedq.jpg" alt="Graphic Design: Instagram Story Post" title="Graphic Design: Instagram Story Post" class="home"></a>
+			  </div><!--close md-4-->
+			  	
+			  <div class="col-md-4">
+			  	<a href="logos.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1504542200/SharkfinTea_b6ykyj.jpg" alt="Graphic Design: Logos" title="Graphic Design: Logos" class="home" style="max-width: 350px;"></a>
+			  </div><!--close md-4-->  
+		  </div><!--close row-->
+		  
+		  <div class="row">
+			  <div class="col-md-4">
+			  <a href="emails.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540765515/email_bjusmy.gif" alt="Email Development" title="Email Development" class="home" style="max-width: 400px;"></a>
+			  </div><!--close md-4-->
+			  
+			  <div class="col-md-4">
+			  <a href="NS-product-site.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540851303/NS-product-site_ju8xyf.jpg" alt="Design, Development: NutriSavings Product Site" title="Design, Development: NutriSavings Product Site" class="home" style="max-width: 400px;"></a>
+			  </div><!--close md-4-->
+			  
+		  	<div class="col-md-4">
+			  <a href="display.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1509807991/300x600_uusr15.jpg" alt="Graphic Design: Display Ads" title="Graphic Design: Display Ads" class="home" style="max-width: 400px;"></a>
+			  </div><!--close md-4-->
+		  </div><!--close row-->
+      
+      <div class="row">
+      <div class="col-md-4">
+			  <a href="flyers.html"><img src="https://res.cloudinary.com/kaela/image/upload/v1540326928/EFF-This-Students_b7aell.jpg" alt="Digital Flyer: Fitness is Free for Students" title="Digital Flyer: Fitness is Free for Students" class="home"></a>
+			  </div><!--close md-4-->
+		  </div><!--close row-->
+		  
+		  <div class="row">
+		  <div class="col-md-12"><br><p class="footer">&copy; Kaela Bryan 2018–present. All Rights Reserved.</p></div></div>
+	  </div><!--close contianer-fluid-->
+    
+  </body>
+</html>
